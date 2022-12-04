@@ -40,9 +40,9 @@ export default function Cooldown() {
   function calculateDiff() {
     const diff = Math.round((cooldownUntil - Date.now()) / 1000);
     if (diff > 0) {
-      document.title = `PixWorld | ${diff}`;
+      document.title = `MapPix | ${diff}`;
     } else {
-      document.title = 'PixWorld';
+      document.title = 'MapPix';
       if (diff === 0) {
         getCanvasController()?.soundController.playSound(AudioType.GOOD);
         if (

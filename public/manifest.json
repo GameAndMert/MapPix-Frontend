@@ -1,6 +1,6 @@
 {
-  "name": "PixWorld",
-  "short_name": "PixWorld",
+  "name": "MapPix",
+  "short_name": "MapPix",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",

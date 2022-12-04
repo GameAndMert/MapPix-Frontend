@@ -11,11 +11,11 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>PixWorld</title>
-        <meta name='application-name' content='PixWorld' />
+        <title>MapPix</title>
+        <meta name='application-name' content='MapPix' />
         <meta name='apple-mobile-web-app-capable' content='yes' />
         <meta name='apple-mobile-web-app-status-bar-style' content='default' />
-        <meta name='apple-mobile-web-app-title' content='PixWorld' />
+        <meta name='apple-mobile-web-app-title' content='MapPix' />
         <meta name="description" content="Place pixels where you want on this canvas !"/>
         <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
         <meta name='format-detection' content='telephone=no' />
@@ -32,17 +32,17 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel='shortcut icon' href='/favicon.ico' />
             
         <meta name='twitter:card' content='summary' />
-        <meta name='twitter:url' content='https://pixworld.vercel.app' />
-        <meta name='twitter:title' content='PixWorld' />
+        <meta name='twitter:url' content='https://mappix.vercel.app' />
+        <meta name='twitter:title' content='MapPix' />
         <meta name='twitter:description' content='Place pixels where you want on this canvas !' />
         <meta name='twitter:image' content='https://pixworld.vercel.app/icons/android-chrome-192x192.png' />
         <meta name='twitter:creator' content='@Henrixounez' />
         <meta property='og:type' content='website' />
-        <meta property='og:title' content='PixWorld' />
+        <meta property='og:title' content='MapPix' />
         <meta property='og:description' content='Place pixels where you want on this canvas !' />
-        <meta property='og:site_name' content='PixWorld' />
-        <meta property='og:url' content='https://pixworld.vercel.app' />
-        <meta property='og:image' content='https://pixworld.vercel.app/icons/apple-touch-icon.png' />
+        <meta property='og:site_name' content='MapPix' />
+        <meta property='og:url' content='https://MapPix.vercel.app' />
+        <meta property='og:image' content='https://MapPix.vercel.app/icons/apple-touch-icon.png' />
       </Head>
       <Provider store={store}>
         <Component {...pageProps} />

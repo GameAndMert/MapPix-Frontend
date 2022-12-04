@@ -149,7 +149,7 @@ export default function Chat() {
         dispatch({
           type: ADD_CHAT_MESSAGE,
           payload: {
-            author: 'PixWorld Help',
+            author: 'MapPix Help',
             color: 'green',
             msg: `
 > == Commands ==

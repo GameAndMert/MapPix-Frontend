@@ -8,8 +8,8 @@ export default function ModalInfos() {
       {t('text')}<br/>
       <hr/>
       {t('madeBy')}<br/>
-      {t('os')} <a href="https://github.com/Henrixounez/PixWorld-Frontend">Frontend</a> & <a href="https://github.com/Henrixounez/PixWorld-Backend">Backend</a><br/>
-      {t('discord')} <a href="https://discord.gg/kQPsRxNuDr">Discord</a>
+      {t('os')} <a href="github.com/GameAndMert/MapPix-Fronted/">Frontend</a> & <a href="github.com/GameAndMert/MapPix-Bacckend/">Backend</a><br/>
+      {t('discord')} <a href="https://discord.gg/Cc7xbspRBH">Discord</a>
     </>
   );
 }
