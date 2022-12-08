@@ -1,0 +1,12 @@
+{
+  "title": "Paramètres",
+  "grid": "Grille activée",
+  "zoomCursor": "Zoom vers le curseur",
+  "language": "Selectionner langue",
+  "activity": "Montrer l'Activité des Pixels",
+  "notifications": "Activer les notifications",
+  "sounds": "Activer les sons",
+  "canvas": "Sélectionner la toile à afficher",
+  "history": "Activer la vue historique",
+  "darkMode": "Activer le mode sombre"
+}
