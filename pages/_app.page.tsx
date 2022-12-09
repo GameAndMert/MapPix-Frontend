@@ -29,10 +29,10 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel='shortcut icon' href='/favicon.ico' />
             
         <meta name='twitter:card' content='summary' />
-        <meta name='twitter:url' content='https://pixworld.vercel.app' />
+        <meta name='twitter:url' content='https://mappix.vercel.app' />
         <meta name='twitter:title' content='MapPix' />
         <meta name='twitter:description' content='Place pixels where you want on this canvas !' />
-        <meta name='twitter:image' content='https://pixworld.vercel.app/icons/android-chrome-192x192.png' />
+        <meta name='twitter:image' content='https://mappix.vercel.app/icons/android-chrome-192x192.png' />
         <meta name='twitter:creator' content='@Henrixounez' />
         <meta property='og:type' content='website' />
         <meta property='og:title' content='MapPix' />
