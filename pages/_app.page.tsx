@@ -36,9 +36,9 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name='twitter:creator' content='@Henrixounez' />
         <meta property='og:type' content='website' />
         <meta property='og:title' content='MapPix' />
-        <meta property='og:description' content='Don't forget to put pixels !' />
+        <meta property='og:description' content= 'Dont forget to put pixels !' />
         <meta property='og:site_name' content='MapPix' />
-        <meta property='og:url' content='https://MapPix.vercel.app' />
+        <meta property='og:url' content='https://mappix.vercel.app' />
         <meta property='og:image' content={pageProps.ogImage} />
       </Head>
       <Component {...pageProps} />
