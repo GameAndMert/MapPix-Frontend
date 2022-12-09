@@ -1,7 +1,0 @@
-{
-  "title": "Captcha - Are you a robot ?",
-  "subtitle": "Enter the characters from the image below.",
-  "tips": "(Characters are case insensitive, p and P are the same)",
-  "input": "Captcha Value",
-  "send": "Send"
-}
